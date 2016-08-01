@@ -1,0 +1,54 @@
+{
+    "people": [
+        {
+            "name": "John Papa",
+            "bio": "I'm a Google Developer Expert and Microsoft Regional Director. I travel speaking at events and train technology thought leaders",
+            "picture": "https://avatars1.githubusercontent.com/u/1202528?v=3&s=460",
+            "banner": "https://johnpapa.net/content/images/2016/05/1500x500.png",
+            "views": "316",
+            "comments": "98",
+            "likes": "209",
+            "followers": "5,600"
+        },
+        {
+            "name": "Linus Torvalds",
+            "bio": "I like to think that I've been a good manager. That fact has been very instrumental in making Linux a successful product.",
+            "picture": "https://avatars3.githubusercontent.com/u/1024025?v=3&s=400",
+            "banner": "http://finland.fi/wp-content/uploads/2015/05/3195-torvalds-jpg.jpg",
+            "views": "186",
+            "comments": "158",
+            "likes": "119",
+            "followers": "40,600"
+        },
+        {
+            "name": "Loki Zavala",
+            "bio": "Code tinker. Still searching for the meaning of life.",
+            "picture": "https://avatars2.githubusercontent.com/u/188538?v=3&s=460",
+            "banner": "https://pbs.twimg.com/profile_banners/17002127/1398264027/1500x500",
+            "views": "491",
+            "comments": "119",
+            "likes": "32",
+            "followers": "491"
+        },
+        {
+            "name": "Herman Junge",
+            "bio": "",
+            "picture": "https://avatars3.githubusercontent.com/u/729830?v=3&s=400",
+            "banner": "",
+            "views": "172",
+            "comments": "34",
+            "likes": "210",
+            "followers": "114"
+        },
+        {
+            "name": "Jordan Mechner",
+            "bio": "I make and write video games, graphic novels, and movies (Prince of Persia, The Last Express, Templar). jmechner on Instagram and Tumblr",
+            "picture": "https://avatars1.githubusercontent.com/u/1650049?v=3&s=400",
+            "banner": "",
+            "views": "325",
+            "comments": "112",
+            "likes": "291",
+            "followers": "497"
+        }
+    ]
+}

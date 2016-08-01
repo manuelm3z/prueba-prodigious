@@ -1,0 +1,100 @@
+.navigation
+    div.btn-group
+        button
+            i
+                border: 2px solid #8e8071
+                border-radius: 50%
+                padding: 2px 6px
+        .dropdown-menu
+            left: 0px
+            padding: 0 0
+            width: 100%
+            margin: 0 0
+            border: none
+            border-radius: 0px 0px 5px 5px
+            li
+                a
+                    font-family: 'Open Sans', sans-serif
+                    font-weight: bold
+                    font-size: 13px
+                    line-height: 30px
+                    text-transform: uppercase
+                    color: #8e8071
+                    padding-top: 3px
+                    padding-bottom: 3px
+                    padding-left: 27px
+                    padding-right: 25px
+                    position: relative
+                    transition: all .3s
+                    &::before
+                        background-color: #4daf7b
+                        width: 0px
+                        height: 36px
+                        transition: width .3s
+                        content: ""
+                        top: 0
+                        left: 0
+                        position: absolute
+                    &:hover, &:active, &:focus
+                        background-color: #f8f3f0 !important
+                        &::before
+                            width: 3px
+                &:last-child
+                    border-radius: 0px 0px 5px 5px
+                    a
+                        border-radius: 0px 0px 5px 5px
+                        &::before
+                            border-radius: 0px 0px 0px 5px
+        &.open
+            button
+                color: #8e8071 !important
+                background-color: #f8f3f0 !important
+                border: none
+                border-bottom: #4daf7b 3px solid !important
+                padding-bottom: 15.5px
+                box-shadow: none
+    button
+        padding: 18.5px 20px
+        padding-right: 30px
+        transition: background-color .3s
+        color: #8e8071
+        border: none
+        i
+            font-size: 20px
+            margin-right: 8px
+        span
+            font-family: 'Open Sans', sans-serif
+            font-weight: bold
+            font-size: 15px
+            text-transform: uppercase
+            display: inline-block
+            vertical-align: top
+            line-height: 28px
+        &:hover, &:active, &:focus
+            color: #8e8071 !important
+            background-color: #f8f3f0 !important
+            border: none
+            border-bottom: #4daf7b 3px solid !important
+            padding-bottom: 15.5px
+        &.edit
+            padding: 12px 20px
+            padding-left: 24px
+            padding-right: 24px
+            border-left: #f8f3f0 1px solid !important
+            &:hover, &:active, &:focus
+                padding-bottom: 9px
+            i
+                font-size: 29px
+                margin-right: 10px
+            span
+                line-height: 40px
+@media (max-width: 568px)
+    .navigation
+        width: 100%
+        div.btn-group
+            width: 50%
+            button
+                width: 100%
+        button
+            width: 50%
+            text-align: left

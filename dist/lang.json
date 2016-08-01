@@ -1,0 +1,78 @@
+{
+	"widgets_chosen": {
+		"es": "Widgets escogidos",
+		"en": "Widgets chosen"
+	},
+	"navigation": {
+		"es": "Navegación",
+		"en": "Navigation"
+	},
+	"my_profile": {
+		"es": "Mi perfil",
+		"en": "My profile"
+	},
+	"invite_friends": {
+		"es": "Invitar a amigos",
+		"en": "Invite Friends"
+	},
+	"find_friends": {
+		"es": "Encontrar amigos",
+		"en": "Find Friends"
+	},
+	"log_out": {
+		"es": "Cerrar sesión",
+		"em": "Log out"
+	},
+	"edit": {
+		"es": "Editar",
+		"en": "Edit"
+	},
+	"menu": {
+		"es": "Menú",
+		"en": "Menu"
+	},
+	"events": {
+		"es": "Eventos",
+		"en": "Events"
+	},
+	"account": {
+		"es": "Cuenta",
+		"en": "Account"
+	},
+	"settings": {
+		"es": "Ajustes",
+		"en": "Settings"
+	},
+	"post": {
+		"es": "Post",
+		"en": "Post"
+	},
+	"profile": {
+		"es": "Perfil",
+		"en": "Profile"
+	},
+	"edit_user": {
+		"es": "Editar usuario",
+		"en": "Edit user"
+	},
+	"web_statistics": {
+		"es": "Estadísticas web",
+		"en": "Web statistics"
+	},
+	"upload_settings": {
+		"es": "Configuración de Subida",
+		"en": "Upload settings"
+	},
+	"followers": {
+		"es": "seguidores",
+		"en": "followers"
+	},
+	"bio": {
+		"es": "Hola, soy Manuel, un entusiasta y auto motivado desarrollador Front y Backend. Tengo 3 años de experiencia en el uso de HTML (5), CSS (3), Sass, jQuery, Github. Se me conoce por la exactitud y atención al detalle. Buenas habilidades interpersonales y buen temperamento.",
+		"en": "Hi, i’m Manuel, an enthusiastic and self motivated developer front and backend. I have 3 years experience using HTML(5), CSS(3), Sass, jQuery, Github. I am known for the accuracy and attention to detail. Good interpersonal skills and good temperament."
+	},
+	"check_in": {
+		"es": "Registrarse",
+		"en": "Check in"
+	}
+}
